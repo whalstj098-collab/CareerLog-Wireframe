@@ -1,3 +1,5 @@
+/* 브라우저마다 다른 기본 여백, 글자 */
+
 * {
   box-sizing: border-box;
 }

@@ -1,3 +1,5 @@
+/* 직무 카드나 정보 카드의 테두리, 크기, 여백 등을 담당 */
+
 .card {
   padding: 20px;
   background: var(--white);
